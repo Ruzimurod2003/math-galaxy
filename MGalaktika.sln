@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MGalaktika", "MGalaktika\MGalaktika.csproj", "{98DABD60-5B6A-438E-B466-3040EDDF0077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DABD60-5B6A-438E-B466-3040EDDF0077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DABD60-5B6A-438E-B466-3040EDDF0077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DABD60-5B6A-438E-B466-3040EDDF0077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DABD60-5B6A-438E-B466-3040EDDF0077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D479FA0E-B05D-409A-90AE-81D9DB0BCE80}
+	EndGlobalSection
+EndGlobal
